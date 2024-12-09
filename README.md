@@ -10,7 +10,7 @@ This manuscript stems from the interdisciplinary project "*Socio-ecological inte
 
 Authors: [Renata L. Muylaert](https://orcid.org/0000-0002-6466-6210), [Kadambari Deshpande](https://orcid.org/0000-0002-2140-9177), [Michael Kriegl](https://orcid.org/0000-0003-0992-7219), [Ernest Valdez](https://orcid.org/0000-0002-7262-3069), [Cristina A. Kita](https://orcid.org/0000-0002-4079-2677), [Ahmad Bilal](https://orcid.org/0009-0002-6933-7077), [Adeel Kazam](https://orcid.org/0000-0002-9233-5064), [Chiara Scaramella](https://orcid.org/0009-0004-5071-0649), Emmanuelle Roth, [Jon Flanders](https://orcid.org/0000-0001-7296-9601), [Malik Oedin](https://orcid.org/0000-0002-0470-2646), Parfait Palamanga Thiombiano, Rida Ahmad, [Sangay Tshering](https://orcid.org/0000-0002-7482-5449), Susan Tsang, [Tigga Kingston](https://orcid.org/0000-0003-3552-5352), [Tanja M. Straka](https://orcid.org/0000-0003-4118-4056), [Marco Mello](https://orcid.org/0000-0002-9098-9427)
 
-E-mail: [c.akemikita\@gmail.com](mailto:c.akemikita@gmail.com){.email}.
+Contact: [renatamuy\@gmail.com](mailto:renatamuy@gmail.com){.email}.
 
 Originally published on December 9th, 2024.
 
