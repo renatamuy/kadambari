@@ -1,15 +1,31 @@
-# SEN
-
-# Renata Muylaert - 2024
+# Kadambari
+# This repo is a supplement to the manuscript:
+# Muylaert et al., in prep. Connections in the Dark: Network Science and 
+# Social-Ecological Networks as Tools for Bat Conservation and Public Health.
+# Global Union of Bat Diversity Networks (GBatNet).
+# See README for further info: https://github.com/renatamuy/kadambari
 
 # Packages
 
-require(here)
+if(!require(here)){
+  install.packages("here")
+  library(here)
+}
 
-if (!require(tidyverse)) install.packages('tidyverse')
-if (!require(ggplot2)) install.packages('ggplot2')
-if (!require(xlsx)) install.packages('xlsx')
-if (!require(igraph)) install.packages('igraph')
+if(!require(ggplot2)){
+  install.packages("ggplot2")
+  library(ggplot2)
+}
+
+if(!require(igraph)){
+  install.packages("igraph")
+  library(igraph)
+}
+
+if(!require(tidyverse)){
+  install.packages("tidyverse")
+  library(tidyverse)
+}
 
 setwd(here())
 setwd('data')
