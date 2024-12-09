@@ -1,6 +1,6 @@
-# kadambari
+# Kadambari
 
-SEN workflow applied to the Kadambari dataset. This repo is a supplement to the manuscript:
+SEN workflow applied to the [Kadambari dataset](https://doi.org/10.1111/oik.08359). This repo is a supplement to the manuscript:
 
 *Muylaert et al., in prep. Connections in the Dark: Network Science and Social-Ecological Networks as Tools for Bat Conservation and Public Health.*
 
